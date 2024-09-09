@@ -1,7 +1,7 @@
 <h1>jogo do numero secreto</h1>
 
 <h2>🏷 Sobre</h2>
-<p>projeto ultilizado nos cursos de logica e programação da alura</p>
+<p>projeto ultilizado na disciplina e desenvolvmento web do IFCE</p>
 
 ## 🚀 tecnologias
 <div>
